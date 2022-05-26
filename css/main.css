@@ -1,6 +1,3 @@
-body {
-    height: 3000px;
-}
 
 .navbar {
     background: linear-gradient(to right, black, #555, #ddd);
@@ -16,7 +13,7 @@ body {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(../img/p8.jpg);
+    background-image: url(../img/p1.jpeg);
     background-size: 100% 100%;
     background-attachment: fixed;
     background-position: center center;
@@ -27,11 +24,11 @@ body {
 #about {
     padding: 50px 0px;
     text-align: center;
-    background-image: url(../img/p9.jpg);
+    background-image: url(../img/p4.jpeg);
     background-attachment: fixed;
     background-size: 100% 100%;
     height: auto;
-    color: black;
+    color: white;
     font-weight: bold;
 }
 
@@ -132,7 +129,7 @@ body {
 #product {
     padding: 50px 0px;
     text-align: center;
-    background-image: url(../img/p3.jpg);
+    background-image: url(../img/p1.jpeg);
     background-attachment: fixed;
     background-size: 100% 100%;
     height: auto;
